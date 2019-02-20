@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+}
+h2{
+    color: rgb(255, 0, 234);
+}
+body{
+    border-style: solid;
+    border-color: brown;
+    padding: 0.2em;
+    margin: 0.5em;
+}
+#input{
+    font-weight: bold;
+    color: orangered;
+}
+#radius{
+    font-weight: bold;
+    color: red;
+}
+#clicker{
+    font-weight: bold;
+    color: green;
+}
+#result{
+    color: purple;
+    font-weight: bold;
+}
